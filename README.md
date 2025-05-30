@@ -1,7 +1,7 @@
 # -Mini-Project-Basic-Network-Topology-using-Cisco-Packet-Tracer
 ## 🖼️ 1. Network Topology Diagram
 
-![Network Topology](diagram.png)
+![Network Topology](photo_2025-05-24_23-02-04.png)
 
 > The diagram shows a simple LAN setup using one router, one switch, and three PCs, all connected with straight-through cables.
 
